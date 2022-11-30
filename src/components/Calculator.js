@@ -3,6 +3,11 @@ import './Calculator.css';
 
 // eslint-disable-next-line react/prefer-stateless-function
 class Calculator extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
     return (
       <div className="container">
