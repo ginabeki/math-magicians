@@ -22,20 +22,14 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [math-magicians] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[math-magicians]** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
@@ -60,22 +54,13 @@
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- **[User can make calculations]**
+- **[User can clear their results after the calculation]**
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +70,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://ginabeki.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,85 +86,51 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Browser
+- Code editor
+- Nodejs installed on your machine
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd PATH
+  git clone git@github.com:ginabeki/math-magicians.git
 ```
---->
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+
 
 ```sh
-  cd my-project
-  gem install
+  cd PATH
+  npm install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+
 
 ```sh
-  rails server
+ npm start
 ```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@ginabeki](https://github.com/ginabeki)
 - Twitter: [@gina](https://twitter.com/twitterhandle)
@@ -190,12 +141,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,32 +156,12 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.MD) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
