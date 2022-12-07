@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders home page correctly 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "background": "#000",
+      "color": "#fff",
+      "display": "flex",
+      "justifyContent": "center",
+      "lineHeight": "1.4",
+      "margin": "5rem auto",
+      "opacity": "0.8",
+      "padding": "2rem",
+      "width": "65%",
+    }
+  }
+>
+  <p>
+    Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality. -- Nikola Tesla
+  </p>
+</div>
+`;
